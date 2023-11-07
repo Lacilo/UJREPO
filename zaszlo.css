@@ -1,0 +1,23 @@
+.zaszlo{
+    width: 1029px;
+    padding: 100px;
+}
+
+#piros{
+    background-color:red;
+    color: red;
+}
+
+#feher{
+    background-color: white;
+    color: white;
+}
+
+#zold{
+    background-color: green;
+    color: green;
+}
+
+body{
+    text-align: center;
+}
