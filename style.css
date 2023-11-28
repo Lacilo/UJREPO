@@ -19,6 +19,7 @@ div{
     border: 2px black solid;
   }
   table{
+    align-items: center;
     padding: 0;
     border: 2px black solid;
     text-align: center;
