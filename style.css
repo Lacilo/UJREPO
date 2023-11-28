@@ -11,3 +11,19 @@ img{
 div{
     margin-top: 20px;
 }
+  th{
+    width: 100px;
+    border: 2px black solid;
+  }
+  tr{
+    border: 2px black solid;
+  }
+  table{
+    padding: 0;
+    border: 2px black solid;
+    text-align: center;
+  }
+  td{
+    height: 50px;
+    border: 2px black solid;
+  }
